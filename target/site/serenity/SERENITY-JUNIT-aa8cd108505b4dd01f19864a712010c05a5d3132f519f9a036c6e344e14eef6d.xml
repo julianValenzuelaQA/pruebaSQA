@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Compra de productos en san angel" skipped="0" tests="1" time="25.94" timestamp="2023-10-19 05:15:42"><testcase name="compra de producto en san angel"><failure message="Expected enabled element was not enabled&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-2HCFEVA', ip: '192.168.0.13', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_372'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2HCFEVA', ip: '192.168.0.13', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_372'
+Driver info: driver.version: unknown</failure><system-err>Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2HCFEVA', ip: '192.168.0.13', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_372'
+Driver info: driver.version: unknown&#13;
+co.sqasa.PagObject.ProductPage.enterQuantity(ProductPage.java:33)&#13;
+co.sqasa.Steps.ProductSteps.enterUnits(ProductSteps.java:22)&#13;
+co.sqssa.StepDef.testStepDefinition.agregoElPrimerProductoConSusDetalles(testStepDefinition.java:32)&#13;
+✽.agrego el primer producto con sus detalles "2"(src/test/resources/features/test.feature:5)&#13;
+</system-err></testcase></testsuite>
